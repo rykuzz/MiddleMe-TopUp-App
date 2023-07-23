@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895080987001",
+    "project_id": "itsmiddleme-c6392",
+    "storage_bucket": "itsmiddleme-c6392.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895080987001:android:3b28f47f54d7039ef097a8",
+        "android_client_info": {
+          "package_name": "com.example.itsmiddleme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895080987001-bveisrg9v65ddbqn5ntk7hv0q48ra4rk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs7qutwcKDHSi0waSuIM8x1mLO8byLIQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895080987001-bveisrg9v65ddbqn5ntk7hv0q48ra4rk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
